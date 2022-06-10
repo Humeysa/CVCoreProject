@@ -1,0 +1,30 @@
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.deps.json
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.runtimeconfig.json
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.runtimeconfig.dev.json
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.pdb
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.csproj.AssemblyReference.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.AssemblyInfoInputs.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.AssemblyInfo.cs
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\refint\CVCore.Entities.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.pdb
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.genruntimeconfig.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\ref\CVCore.Entities.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.deps.json
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.runtimeconfig.json
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.runtimeconfig.dev.json
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\bin\Debug\net5.0\CVCore.Entities.pdb
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.csproj.AssemblyReference.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.AssemblyInfoInputs.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.AssemblyInfo.cs
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\refint\CVCore.Entities.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.pdb
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\CVCore.Entities.genruntimeconfig.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Entities\obj\Debug\net5.0\ref\CVCore.Entities.dll

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CVCore.DataAccsess.Abstract
 {
-    internal interface ITestimonialRepository : IGenericRepository<Testimonial>
+    public interface ITestimonialRepository : IGenericRepository<Testimonial>
     {
     }
 }

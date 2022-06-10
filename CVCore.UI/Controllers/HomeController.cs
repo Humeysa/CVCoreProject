@@ -1,4 +1,7 @@
-﻿using CVCore.UI.Models;
+﻿using CVCore.Business.Concrete;
+using CVCore.DataAccsess.Concrete;
+using CVCore.Entities.Concrete;
+using CVCore.UI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -24,6 +27,22 @@ namespace CVCore.UI.Controllers
 
         public PartialViewResult NavbarPartial()
         {
+            return PartialView();
+        }
+
+        [HttpGet]
+        public PartialViewResult SendMessage()
+        {
+            return PartialView();
+        }
+
+        [HttpPost]
+        public PartialViewResult SendMessage(Message p)
+        {
+            MessageManager messageManager = new MessageManager(new MessageRepository());
+            p.Date=Convert.ToDateTime(DateTime.Now.ToShortDateString());
+            p.Status = true;
+            messageManager.TAdd(p);
             return PartialView();
         }
     }

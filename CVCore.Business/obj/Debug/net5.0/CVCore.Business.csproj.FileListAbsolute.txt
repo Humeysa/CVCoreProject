@@ -1,0 +1,40 @@
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.deps.json
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.runtimeconfig.json
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.runtimeconfig.dev.json
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.pdb
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.DataAccsess.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Entities.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.DataAccsess.pdb
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Entities.pdb
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.csproj.AssemblyReference.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.AssemblyInfoInputs.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.AssemblyInfo.cs
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.csproj.CoreCompileInputs.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.csproj.CopyComplete
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\refint\CVCore.Business.dll
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.pdb
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.genruntimeconfig.cache
+C:\Users\humey\Desktop\Yazılım Geliştirici Yetiştirme Kampı\2.Gün\CVCoreProject\CVCore.Business\obj\Debug\net5.0\ref\CVCore.Business.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.csproj.AssemblyReference.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.AssemblyInfoInputs.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.AssemblyInfo.cs
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.csproj.CoreCompileInputs.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\refint\CVCore.Business.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.pdb
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.deps.json
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.runtimeconfig.json
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.runtimeconfig.dev.json
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Business.pdb
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.DataAccsess.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Entities.dll
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.DataAccsess.pdb
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\bin\Debug\net5.0\CVCore.Entities.pdb
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.csproj.CopyComplete
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\CVCore.Business.genruntimeconfig.cache
+C:\Users\humey\Desktop\Projeler\Udemy Projeleri\AspNet Core 5.0 ile Adım Adım Web Geliştirme - Murat Yücedağ\CVCoreProject\CVCore.Business\obj\Debug\net5.0\ref\CVCore.Business.dll

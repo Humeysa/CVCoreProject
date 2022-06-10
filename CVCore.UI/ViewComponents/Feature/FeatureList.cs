@@ -10,7 +10,7 @@ namespace CVCore.UI.ViewComponents.Feature
 
         public IViewComponentResult Invoke()
         {
-            var values=featureManager.TGetList();
+            var values = featureManager.TGetList();
             return View(values);
         }
     }
